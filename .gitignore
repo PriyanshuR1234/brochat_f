@@ -1,0 +1,4 @@
+# .gitignore
+chroma_db/
+.env
+__pycache__/

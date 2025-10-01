@@ -42,7 +42,7 @@ def check_health_loop():
                 print(f"[⚠️ Issue] {target_server} returned {res.status_code} at {time.strftime('%H:%M:%S')}")
         except Exception as e:
             print(f"[❌ Down] {target_server} at {time.strftime('%H:%M:%S')} - {e}")
-        time.sleep(300)  # check every 3 seconds
+        time.sleep(3)  # check every 3 seconds
 
 # Run health check in a separate background thread
 threading.Thread(target=check_health_loop, daemon=True).start()
@@ -50,7 +50,7 @@ threading.Thread(target=check_health_loop, daemon=True).start()
 # ------------------- Routes -------------------
 @app.route("/health", methods=["GET"])
 def health():
-    return jsonify({"status": "ok", "message": "Flask server is healthy"}), 200
+    return jsonify({"status": "ok", "message": "Server is healthy"}), 200
 
 @app.route("/chat", methods=["POST"])
 def chat():

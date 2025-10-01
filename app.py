@@ -1,4 +1,7 @@
 import os
+import threading
+import time
+import requests
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from dotenv import load_dotenv
@@ -25,11 +28,29 @@ llm = ChatGoogleGenerativeAI(
     model="models/gemini-2.0-flash-lite-001",
     temperature=0.2
 )
+
+# ------------------- Health Check -------------------
+target_server = "https://monitor-server-8kgp.onrender.com/health"
+
+def check_health_loop():
+    while True:
+        try:
+            res = requests.get(target_server, timeout=5)
+            if res.status_code == 200:
+                print(f"[✅ Healthy] {target_server} at {time.strftime('%H:%M:%S')}")
+            else:
+                print(f"[⚠️ Issue] {target_server} returned {res.status_code} at {time.strftime('%H:%M:%S')}")
+        except Exception as e:
+            print(f"[❌ Down] {target_server} at {time.strftime('%H:%M:%S')} - {e}")
+        time.sleep(300)  # check every 3 seconds
+
+# Run health check in a separate background thread
+threading.Thread(target=check_health_loop, daemon=True).start()
+
+# ------------------- Routes -------------------
 @app.route("/health", methods=["GET"])
 def health():
-    return jsonify({"status": "ok", "message": "Server is healthy"}), 200
-
-
+    return jsonify({"status": "ok", "message": "Flask server is healthy"}), 200
 
 @app.route("/chat", methods=["POST"])
 def chat():
@@ -64,6 +85,7 @@ Now answer the user question: {query}
     except Exception as e:
         # Catch all errors to avoid crashing server
         return jsonify({"error": str(e)}), 500
+
 
 if __name__ == "__main__":
     print("Starting Flask server on http://127.0.0.1:5001")

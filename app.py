@@ -25,6 +25,11 @@ llm = ChatGoogleGenerativeAI(
     model="models/gemini-2.0-flash-lite-001",
     temperature=0.2
 )
+@app.route("/health", methods=["GET"])
+def health():
+    return jsonify({"status": "ok", "message": "Server is healthy"}), 200
+
+
 
 @app.route("/chat", methods=["POST"])
 def chat():
@@ -61,5 +66,5 @@ Now answer the user question: {query}
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
-    print("Starting Flask server on http://127.0.0.1:5000")
+    print("Starting Flask server on http://127.0.0.1:5001")
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5001)))

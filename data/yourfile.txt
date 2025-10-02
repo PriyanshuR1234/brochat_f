@@ -66,80 +66,101 @@ ChatBro responds in a friendly, human-like tone and avoids AI disclaimers.
 
 
 
+note: You are the official chatbot of Brokebroo, a platform that gives exclusive student discounts and sponsors student events. Answer student queries concisely and point-to-point. Provide discount information for the following categories: Gaming, Beauty & Salon, Fitness & Gyms, Food & Cafes, Fashion & Shopping, and Other. Mention event sponsorship if asked. If a student asks for contact, respond with ‘For collaborations or more details, please contact us 📩’. Do not add unnecessary text; keep all responses short, clear, and relevant.
+
+
 This section contains specific, verified offers from our newest brand partners across India:
 
-Salon & Beauty Deals
+GAMING 
+Ramp Up: 10% off on Gaming over 500.
+Red Ball International: 10% Student Discount on Gaming.
+Gaming Garage: 30 mins extra gaming on 2 hours of Gaming (Not applicable on weekdays and holidays).
+Pro Game Flixx - The Premium Gaming Lounge: 15% student discount on PS5 (2+ hours), special pool rates, and offers on bills over 1500.
+Playtime Gaming Cafe: 1 hour extra on 2 hours of Gaming, and 20% off for students to spend over 1000.
+Gaming Mania: 1 hour free on 2 hours of PC and PS5 Gaming (Valid only on Weekdays and non-Holidays).
+Strikerz Gaming Zone: 10% Student Discount on Gaming of 2 hours and more.
 
-Slam Salon - A Luxury Salon (New Delhi): Get 50% off on Hair Cut and 25% off on all services. Use code SlamBroke50.
+BEAUTY & SALON
+Slam Salon - A Luxury Salon: 50% off on Hair Cut and 25% off on all services.
+Tipbelle by Krushika Aneja: Flat 50% off on Nail Art.
+Glam Impressions Salon: 20% off on services above 1000.
+Pro Plus Smart Salon: 20% off on services above 1000.
+LAVISH - Luxury Unisex Salon by Happy: 30% off on all services.
+D’Ikonic Unisex Salon: Flat 10% Student Discount on all services.
+Nail’O’Shine (nails): Full nail art worth 699 at 499, and nail art course worth 15k at just 11k.
+Stylista by shivani luxury salon & academy: 5k student discount on 1-week makeup course (20k for students), and a free makeup vanity in the 1-month course.
+Hair Empire Unisex Salon: 10% Student Discount on a bill of over 500.
+Venus Luxury Unisex Salon: 10% Student Discount on a bill of 2000 and above.
+Glowish Beauty Salon: Special hair removal packages for students (e.g., Waxing, Bleach, Cleanup, Threading bundles starting from 500).
+Zuba Unisex Salon: 5% discount on services over 500, 10% over 1000, and 20% over 2000.
+Salon9teen: Flat 15% Student Discount.
+Noble Touch Unisex Salon: Upto 50% Student Discount on services.
+Inaayat By Sargun (Salon): 3k Student Discount with Student Kit on 1 month Nails & Beauty Course.
+Dalmore Unisex Salon: 10% Student Discount on bill over 500.
+Black & Blonde Unisex Salon: 10% Student Discount on bill over 500 and 20% on bill over 1000.
+LAKME Salon: Get Flat 15% Off
+Vishal Mok Salon & Academy: Student Exclusive Loyalty Programs (e.g., pay 2k for services worth 3k, pay 5k for services worth 10k).
+Zulf Unisex Salon: 10% Student Discount on a bill over 500, and 15% on a bill over 1000.
+Sparsh Salon: Upto 50% Student Discount.
+Royal Touch Unisex Salon: Upto 30% Student Discount on selected services.
+Dinesh’s Glam Unisex Salon: 20% Student Discount on a bill of over 1000.
+Exposure Unisex Salon: 20% off on a bill of 1000 and above.
 
-Tipbelle by Krushika Aneja (New Delhi): Get flat 50% off on Nail Art. Use code TIPBELLE50.
+FITNESS & GYMS 
+Sharks Gym: 2k off on Annual Membership (from 16k to 14k).
+The Wellness Club Gym Xpress, Patel nagar: Annual Membership worth 15k for only 12k.
+Flex Fitness: 2k off on 3 months (at 5k), 3k off on 6 months (at 9k with 1 month free), and 3k off on annual subscription (at 15k with 2 months free).
+TIME TO FITNESS: 30% student discount on Gym Membership.
+Fitness Zone GK-1: Discounts on various memberships (e.g., Annual from 25k to 21k, 1 month from 4k to 3k).
+Ignite Fitness: Special student offers - 1 month at 999, 3+1 months at 2999, 6+2 months at 5499, 12+4 months at 9999.
+Fit Faction Gym: 2500 discount coupon for students on annual membership (one-time use for new clients).
+Gym 24: Special student deals - 1 month for 1300, 2 months for 2500, 12 months for 12000.
+Fat Cherry Fitness: 40% student discount on Annual Membership.
+MPX Fitness: Flat 25% student discount on 3 months, 6 months and Annual Gym Membership.
+Super Fitness by Abhishek Kant: Exclusive student deals - 6+1 months at 8000, 12+2 months at 12000.
+Thrive Gym: Discounts on various memberships (e.g., Annual from 23k to 19k).
+Fiziko Fitness Premium: 20% Student Discount on Annual Membership.
+Zealous Fitness: 25% discount on 1, 3, 6 months membership and 40% discount on annual membership.
+Strength The Gym & Spa: 1 month membership for 1500 (from 2000), Annual membership for 11000 (from 18000).
+The Bullheads (Gym): 1 month gym membership for 1500 (from 2000).
+Rahul Fitness: 1 month membership for 800 (from 1000), 3 months for 2400.
+Iron Culture Gym: Flat 1000 student discount on Annual Membership (15k from 16k).
+Fitness Planet: 20% Discount on Membership (e.g., one month for 1200 from 1500).
+AK Fitness Club: 20% Discount on Membership (e.g., one month for 1200 from 1500).
+Anytime Fitness: Annual Gym Membership for 20000 (from 26000) plus other benefits.
+The New Body Temple Gym: 1000 off on Annual Gym Membership (8500 from 9500).
+True Fitness Club: 10% Student Discount on Gym Membership.
+Team Satpal Gym: 10% Student Discount on Gym Membership.
+Fitness Paradise: 20% Student Discount on Annual Gym Membership (10000 from 12000).
+Absolute Fitness: Upto 25% discount on memberships (e.g., Annual for 10000 from 12000).
+Divine Gym: 3000 Student Discount on Annual Gym Membership (15000 from 18000).
+Power House Gym: 10% Extra Student Discount on Gym Membership.
+Forge Fit Gym: 1 Month for 1300 (from 1500), Annual for 10000 (from 12000).
+Evolution Fitness Gym: 1 month gym membership for 1200 (from 2500).
+Lifetime Fitness: 2000 off on Annual Gym Membership (12000 from 14000).
+Trainer Fitness Studio: Complimentary fitness classes and sessions with Gym Membership.
+The Sweatyard (Gym): 2k off on Annual Gym Membership (10000 from 12000).
+Gym F1: Annual Gym Membership for 12k (from 15k).
+First Fitness: Flat 10% Discount on Gym Memberships.
+Fitness Factory Gym and Spa: Special deals (e.g., 1 month for 2000 from 2500, Annual for 15000 with one month extra).
 
-Glam Impressions Salon (New Delhi): Get 20% off on services above ₹1000. Use code GLAM20.
+FOOD & CAFE 
+Sub Grills (FOOD): Upto 15% off on Sandwiches, Wraps and Salads.
+Sweet Sins (Bakery): 15% off on spending over 500.
+Momo weds Shawarma (Food): Flat 20% off for Students.
+Shawarma Wala: 10% Student Discount on a bill over 1000.
+Cuppa Crust Day (Coffee): Flat 5% Student Discount.
+Brewtoast (Cafe): 10% Student Discount on orders above 500.
+Cafe Legato: 10% Student Discount over a bill of 700.
+Mr. Boba Bubbles (Beverage): 10% Student Discount over a bill of 700.
+The Cheesy Story (Cafe): 10% Student Discount over a bill of 700.
+Too Mikki Tapas (Cafe): 20% Discount by writing a review and tagging on Instagram.
 
-LAVISH - Luxury Unisex Salon by Happy (New Delhi): Get 30% off on all services. Use code LAVISH30.
-
-D’Ikonic Unisex Salon (New Delhi): Get Flat 10% Student Discount on all services. Use code DIKONIC10.
-
-Nail’O’Shine (New Delhi): Nail art worth ₹699 at ₹499, and nail art courses worth ₹15k at ₹11k. Use code NAILSHINE30.
-
-Stylista by shivani luxury salon & academy (New Delhi): ₹5k discount on 1-week makeup course and a Free make up vanity in the 1-month course. Use code STYLISTA5K.
-
-Glowish Beauty Salon (New Delhi): Special Hair Removal Packages (wax, bleach, cleanup, threading) starting from ₹500. Use code GLOWBROKE.
-
-Salon9teen (New Delhi): Get Flat 15% Student Discount. Use code SALONBROKE15.
-
-Fitness & Wellness Deals
-
-Sharks Gym (New Delhi): Get ₹2000 off on Annual Membership (Broke Bro Price-₹14,000). Use code SHARKBRO.
-
-The Wellness Club Gym Xpress (New Delhi): Annual Membership worth ₹15k now at ₹12k. Use code WELLNESS20.
-
-Flex Fitness (New Delhi): Upto 25% student discount with savings up to ₹3k on annual subscription (plus 2 months complimentary). Use code FLEXSTUDENT25.
-
-Fitness Zone GK-1 (New Delhi): Annual Membership worth ₹25k at ₹21k; 6 months at ₹13k; 3 months at ₹8k; 1 month at ₹3k. Use code FITNESSGK4K.
-
-Ignite Fitness (New Delhi): Get 12+4 months of membership at just ₹9999. Use code IGNITE9999.
-
-Fat Cherry Fitness (New Delhi): Get 40% student discount on Annual Membership. Use code FATCHERRY40.
-
-MPX Fitness (New Delhi): Get Flat 25% student discount on 3 months, 6 months and Annual Gym Membership. Use code MPX25.
-
-Thrive Gym (New Delhi): Get extra ₹4000 Student Discount on Annual Membership (now ₹19k). Use code THRIVE4K.
-
-Zealous Fitness (New Delhi/Gurugram): Upto 40% student discount on annual membership. Use code ZEALOUS40.
-
-Strength The Gym & Spa (New Delhi - Multiple Locations): Annual membership worth ₹18000 at just ₹11000. Use code STRENGTH40.
-
-Anytime Fitness (Faridabad): Annual Gym Membership worth over ₹26k at just ₹20,000. (Student ID card needed).
-
-Divine Gym (New Delhi): Get ₹3000 Student Discount on Annual Gym Membership (now ₹15,000). Use code DIVINE3K.
-
-Gaming & Entertainment Deals
-
-Ramp Up (New Delhi): 10% off on Gaming over ₹500. Use code RampBroke10.
-
-Red Ball International (New Delhi): Flat 10% student discount on Gaming. Use code RedBallBroke10.
-
-Gaming Garage (New Delhi): 30 mins extra gaming on 2 hours of Gaming (Not Applicable on weekdays/holidays). Use code GARAGE30MIN.
-
-Pro Game Flixx - The Premium Gaming Lounge (New Delhi): 15% student discount on PS5 play for 2+ hours. Use code PROGAME15.
-
-Playtime Gaming Cafe (New Delhi): 1 hour free gaming on 2 hours, and 20% off on spend over ₹1000. Use code PLAYTIME20.
-
-Gaming Mania (New Delhi): Get 1 hour free on 2 hours of PC and PS5 Gaming (Valid only on Weekdays/non Holidays). Use code GAMINGMANIA1HR.
-
-Food & Lifestyle Deals
-
-Sub Grills (FOOD) (New Delhi): Upto 15% off on Sandwiches, Wraps and Salads. Use code SUBGRILL15.
-
-Momo weds Shawarma (Food) (New Delhi): Flat 20% off for Students. Use code MOMOSHAWARMA20.
-
-Sweet Sins (Bakery) (New Delhi): Get 15% off on spend over ₹500. Use code SWEETSINS15.
-
-Dine N Wine (Food) (New Delhi): Get 20% Student Discount on a bill of over ₹1000. Use code DINESHBROKE20.
-
-http://Khandaani.in (clothing) (Online): Get Student Discount Gift Card worth ₹1000 on shopping of ₹5000. Use code KHANDAANI1K.
-
-Madaan Book Collection (New Delhi): Get 10% Extra Student Discount on used books and stationery. Use code MADAAN10.
-
-Love Lights / Batti and Bliss (Scented Candles): Upto 15% off on orders over ₹1000 (both online and offline options). Use codes LOVELIGHTS10 / BATTIBLISS10.
+FASHION & SHOPPING 
+Khandaani (clothing): Student Discount Gift Card worth 1k on shopping of 5K.
+Love Lights (Scented Candles): 10% off on shopping worth 500 and 15% off on shopping over 1000.
+Batti and Bliss (Scented Candles): 10% off on all online orders above 500 and 10% off on offline shopping over 1000.
+Madaan Book Collection: 10% Extra Student Discount on used books and stationery.
+Lit&Luxe (Scented Candles): 5% discount on shopping of 600 and above, 10% discount on shopping of 1000 and above.
+OTHER 
+District 9 (playground): 50% student discount between 12-4pm.

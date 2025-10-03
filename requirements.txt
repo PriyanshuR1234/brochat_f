@@ -8,3 +8,4 @@ gunicorn
 requests
 langchain
 langchain-community
+faiss-cpu
